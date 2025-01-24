@@ -1,0 +1,2 @@
+# End-to-End-Data-Integration-and-Transformation-Solution-with-Azure-Data-Factory-
+Designed and implemented an end-to-end data integration solution using Azure Data Factory (ADF). Ingested data from HTTP and Azure Blob Storage into Azure Data Lake Gen2, transformed it using Data Flows, HDInsight, and Databricks, and stored transformed data in Azure Data Lake Gen2 and Azure SQL Database. Visualized insights with Power BI.
