@@ -352,8 +352,9 @@ Advanced Orchestration
  
  
 43.	Configure an alert rule to notify the appropriate team or individual in case a trigger fails. This can be set up in Azure Monitor to track the trigger's execution status and send alerts via email, SMS, or other preferred channels.
- 
+## Data Visualization
 44.	Visualize the data using Power BI reports by connecting Power BI to the Azure SQL Database. Provide the server name, database name, and the admin username and password to establish the connection.
+
 
 
 
